@@ -16,4 +16,6 @@ server.sendmail(sender_email,to_email,text)
 print("email sent to ",to_email)
 server.quit()
 
-print("hello")
+a=10
+b=20
+print(a+b)
