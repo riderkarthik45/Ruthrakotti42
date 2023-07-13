@@ -16,4 +16,4 @@ server.sendmail(sender_email,to_email,text)
 print("email sent to ",to_email)
 server.quit()
 
-print("hello")
+print("python course")
